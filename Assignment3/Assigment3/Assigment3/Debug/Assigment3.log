@@ -1,0 +1,24 @@
+﻿  glm.c
+c:\users\epl\source\repos\107062631_hw_3\assigment3\assigment3\glm.c(1450): warning C4477: 'fprintf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'GLfloat *'
+  main.cpp
+c:\users\epl\source\repos\107062631_hw_3\assigment3\assigment3\main.cpp(274): warning C4018: '<': signed/unsigned 不相符
+c:\users\epl\source\repos\107062631_hw_3\assigment3\assigment3\main.cpp(281): warning C4838: 從 'GLuint' 到 'int' 的轉換必須是縮小轉換
+c:\users\epl\source\repos\107062631_hw_3\assigment3\assigment3\main.cpp(286): warning C4838: 從 'GLuint' 到 'int' 的轉換必須是縮小轉換
+c:\users\epl\source\repos\107062631_hw_3\assigment3\assigment3\main.cpp(668): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\epl\source\repos\107062631_hw_3\assigment3\assigment3\main.cpp(675): warning C4305: '-=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\epl\source\repos\107062631_hw_3\assigment3\assigment3\main.cpp(707): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\epl\source\repos\107062631_hw_3\assigment3\assigment3\main.cpp(708): warning C4244: '-=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\epl\source\repos\107062631_hw_3\assigment3\assigment3\main.cpp(712): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\epl\source\repos\107062631_hw_3\assigment3\assigment3\main.cpp(713): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\epl\source\repos\107062631_hw_3\assigment3\assigment3\main.cpp(849): warning C4305: '=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\epl\source\repos\107062631_hw_3\assigment3\assigment3\main.cpp(850): warning C4305: '=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\epl\source\repos\107062631_hw_3\assigment3\assigment3\main.cpp(859): warning C4305: '=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\epl\source\repos\107062631_hw_3\assigment3\assigment3\main.cpp(860): warning C4305: '=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\epl\source\repos\107062631_hw_3\assigment3\assigment3\main.cpp(861): warning C4305: '=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\epl\source\repos\107062631_hw_3\assigment3\assigment3\main.cpp(882): warning C4018: '<': signed/unsigned 不相符
+c:\users\epl\source\repos\107062631_hw_3\assigment3\assigment3\main.cpp(933): warning C4018: '<': signed/unsigned 不相符
+  Matrices.cpp
+c:\users\epl\source\repos\107062631_hw_3\assigment3\assigment3\matrices.cpp(457): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\epl\source\repos\107062631_hw_3\assigment3\assigment3\matrices.cpp(458): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  正在產生程式碼...
+  Assigment3.vcxproj -> C:\Users\EPL\source\repos\107062631_HW_3\Assigment3\Debug\Assigment3.exe
